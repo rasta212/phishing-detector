@@ -67,6 +67,10 @@ Each rule adds points, and the total sets the risk level:
 - Add more languages.
 - Read `.eml` email files directly.
 
+## References
+
+For more detailed explanations of phishing and online security: https://mysafeip.blogspot.com/
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
